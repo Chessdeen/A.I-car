@@ -13,6 +13,7 @@ However, once these learning algorithms are fine-tuned for accuracy, they are po
 ## How do neural networks work?
 Overall, AI, machine learning, and neural networks are complementary technologies with each providing a foundation for the other. Thus, machine learning ideas often overlap with deep learning ones such as facial recognition and object detection.
 
+![patern-recognition-742x427](https://user-images.githubusercontent.com/37848504/211221640-5eb7be5a-741b-43be-93d8-62c2944587fa.jpeg)
 
 ## References:
 1. <a href="https://www.ibm.com/topics/neural-networks">What is a neural network?</a>
