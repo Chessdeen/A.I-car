@@ -4,7 +4,7 @@
 ![ai-car](https://user-images.githubusercontent.com/37848504/211214438-ab5f5a1e-67af-47d9-a7e1-798aecf4588d.png)
 
 ## How This Works
-The Artificail intelligent car relies on Neural Networks Training/Intelligence.
+The Artificial intelligent car relies on Neural Networks Training/Intelligence.
 Neural networks rely on training data to learn and improve their accuracy over time.
 However, once these learning algorithms are fine-tuned for accuracy, they are powerful tools in computer science and artificial intelligence, allowing us to classify and cluster data at a high velocity.
 
